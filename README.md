@@ -1,4 +1,4 @@
-# Retail sales performance analysis
+# Retail Sales Performance Analysis
 Sales performance and profitability analysis developed using Power BI to support commercial decision-making in a retail environment.
 
 ## Context
