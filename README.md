@@ -17,12 +17,15 @@ To address this need, an interactive Business Intelligence dashboard was develop
 
 ## Technical Stack
 **Business Intelligence & Visualization**
+
 Power BI – Interactive dashboard development and data visualization
 
 **Data Preparation**
+
 Power Query – Data cleaning, transformation, and normalization
 
 **Data Modeling**
+
 Star schema design
 Relationship management between fact and dimension tables
 
