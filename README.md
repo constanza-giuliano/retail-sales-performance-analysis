@@ -19,14 +19,14 @@ To address this need, an interactive Business Intelligence dashboard was develop
 ##Business Intelligence & Visualization##
 Power BI – Interactive dashboard development and data visualization
 
-## Data Preparation ##
+##Data Preparation##
 Power Query – Data cleaning, transformation, and normalization
 
-## Data Modeling ##
+##Data Modeling##
 Star schema design
 Relationship management between fact and dimension tables
 
-## Data Analysis ##
+##Data Analysis##
 DAX (Data Analysis Expressions) – Measures and calculated metrics for sales and profitability analysis
 
 ## Data Source ##
