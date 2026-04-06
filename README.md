@@ -26,11 +26,12 @@ To address this need, an interactive Business Intelligence dashboard was develop
 
 **Data Modeling**
 
--Star schema design
--Relationship management between fact and dimension tables
+- Star schema design
+- Relationship management between fact and dimension tables
 
 **Data Analysis**
-DAX (Data Analysis Expressions) – Measures and calculated metrics for sales and profitability analysis
+
+- DAX (Data Analysis Expressions) – Measures and calculated metrics for sales and profitability analysis
 
 **Data Source**
-Structured retail sales dataset (transactional data model)
+- Structured retail sales dataset (transactional data model)
