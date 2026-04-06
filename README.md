@@ -36,6 +36,10 @@ To address this need, an interactive Business Intelligence dashboard was develop
 **Data Source**
 - Structured retail sales dataset (transactional data model)
 
+  <a href="evidence/">
+  <img src="https://img.shields.io/badge/View-Technical_Evidence-red?style=for-the-badge"/>
+</a>
+
 ## Notes on Data
 The analysis uses a structured retail sales dataset organized under a dimensional data model to support multidimensional performance analysis.
 
@@ -52,7 +56,13 @@ Scope: Profitability analysis focuses on gross profit, as operational expenses w
 This page provides a comprehensive overview of overall sales performance and gross profitability. It highlights key financial indicators such as total revenue, cost of goods sold, gross profit margin, and average daily performance. The dashboard enables stakeholders to monitor business health, compare profitability across branches and regions, and identify revenue trends over time to support commercial decision-making.
 
 ![Sales & Profitability](Images/1.Sales_Profability.png)
+
+### Products
 ![Products](Images/2.Sold_Products.png)
 ![Products](Images/3.Products_by_Province.png)
-![SBranches](Images/4.Branches.png)
+
+### Branches
+![Branches](Images/4.Branches.png)
+
+### Scenarios
 ![Scenarios](Images/5.Scenarios.png)
