@@ -36,7 +36,7 @@ To address this need, an interactive Business Intelligence dashboard was develop
 **Data Source**
 - Structured retail sales dataset (transactional data model)
 
-  <a href="evidence/">
+  <a href="Evidence/">
   <img src="https://img.shields.io/badge/View-Technical_Evidence-red?style=for-the-badge"/>
 </a>
 
