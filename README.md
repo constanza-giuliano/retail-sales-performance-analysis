@@ -35,3 +35,10 @@ To address this need, an interactive Business Intelligence dashboard was develop
 
 **Data Source**
 - Structured retail sales dataset (transactional data model)
+
+## Notes on Data
+The analysis uses a structured retail sales dataset organized under a dimensional data model to support multidimensional performance analysis.
+Data Model: Sales fact table containing transaction-level metrics such as revenue, quantity, and cost.
+Supporting dimensions including products, suppliers, locations, and calendar data.
+Data Preparation: Data was cleaned and transformed using Power Query to ensure consistency, create analytical fields, and validate relationships across tables.
+Scope: Profitability analysis focuses on gross profit, as operational expenses were not included in the dataset.
