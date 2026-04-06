@@ -50,4 +50,4 @@ Scope: Profitability analysis focuses on gross profit, as operational expenses w
 
 ### Sales & Profitability — Overview
 This page provides a comprehensive overview of overall sales performance and gross profitability. It highlights key financial indicators such as total revenue, cost of goods sold, gross profit margin, and average daily performance. The dashboard enables stakeholders to monitor business health, compare profitability across branches and regions, and identify revenue trends over time to support commercial decision-making.
-![Sales & Profitability](images/1. Sales_Profability.png)
+![Sales & Profitability](images/1.Sales_Profability.png)
