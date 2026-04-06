@@ -8,12 +8,12 @@ The objective was to transform transactional sales data into actionable insights
 To address this need, an interactive Business Intelligence dashboard was developed in Power BI, enabling stakeholders to analyze key performance indicators through multiple business dimensions such as time, product hierarchy, suppliers, and geographic distribution.
 
 ## Objectives
--Valuate overall sales performance and revenue evolution over time.
--Analyze gross profitability to understand margin behavior across products and locations.
--Identify top-performing and underperforming products based on sales volume and profitability.
--Compare performance across regions and store locations to detect operational differences.
--Understand supplier contribution to total revenue and profitability.
--Enable dynamic filtering and exploratory analysis to support data-driven decision-making by business stakeholders.
+- Valuate overall sales performance and revenue evolution over time.
+- Analyze gross profitability to understand margin behavior across products and locations.
+- Identify top-performing and underperforming products based on sales volume and profitability.
+- Compare performance across regions and store locations to detect operational differences.
+- Understand supplier contribution to total revenue and profitability.
+- Enable dynamic filtering and exploratory analysis to support data-driven decision-making by business stakeholders.
 
 ## Technical Stack
 **Business Intelligence & Visualization**
