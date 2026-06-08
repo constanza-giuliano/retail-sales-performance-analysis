@@ -58,11 +58,21 @@ This page provides a comprehensive overview of overall sales performance and gro
 ![Sales & Profitability](Images/1.Sales_Profability.png)
 
 ### Products
+This page focuses on product performance and sales behavior. It enables users to identify top-performing products, evaluate sales volume and profitability by category, analyze supplier contribution, and understand purchasing patterns throughout the day. The dashboard supports product strategy, pricing decisions, and sales optimization initiatives.
+
 ![Products](Images/2.Sold_Products.png)
+
+### Products by Province
+This page provides a geographical view of product demand across provinces. It helps identify regional sales patterns, detect products with low or no sales activity, and support inventory distribution and commercial planning decisions. The analysis allows stakeholders to better understand market demand at a local level.
+
 ![Products](Images/3.Products_by_Province.png)
 
 ### Branches
+This page analyzes branch performance across the organization. Users can compare revenue and profitability by province, identify top-performing locations, and evaluate the company's regional footprint. The dashboard supports operational and commercial decision-making by highlighting differences in performance across branches and geographic areas.
+
 ![Branches](Images/4.Branches.png)
 
 ### Scenarios
+This page enables scenario analysis by simulating changes in sales volume, product costs, and selling prices. Users can evaluate the potential impact of different business assumptions on revenue and profitability, supporting planning activities and strategic decision-making through interactive what-if analysis.
+
 ![Scenarios](Images/5.Scenarios.png)
