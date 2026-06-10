@@ -16,25 +16,36 @@ To address this need, an interactive Business Intelligence dashboard was develop
 - Enable dynamic filtering and exploratory analysis to support data-driven decision-making by business stakeholders.
 
 ## Technical Stack
-**Business Intelligence & Visualization**
 
-- Power BI: Interactive dashboard development and data visualization
+**Power BI**
+-Data modeling (star schema design)
+-Fact and dimension table architecture
+-Relationship management
+-Interactive dashboard development
+-KPI card design and performance monitoring
+-Dynamic slicers and cross-filtering
+-Scenario analysis with What-if Parameters
 
-**Data Preparation**
+**DAX**
+-Measure-driven reporting architecture
+-Profitability and margin calculations
+-Time-based performance metrics
+-Dynamic KPIs and reusable measures
+-Scenario simulation measures
 
-- Power Query: Data cleaning, transformation, and normalization
+**Power Query (M)**
+-Data cleaning and normalization
+-Data type standardization
+-Column transformations and data shaping
+-Query merging and calculated fields
+-Preparation of analytical datasets
 
-**Data Modeling**
-
-- Star schema design
-- Relationship management between fact and dimension tables
-
-**Data Analysis**
-
-- DAX (Data Analysis Expressions) – Measures and calculated metrics for sales and profitability analysis
-
-**Data Source**
-- Structured retail sales dataset (transactional data model)
+**Business Intelligence & Analytics**
+-Sales and profitability analysis
+-Product and supplier performance evaluation
+-Branch and regional comparison
+-Interactive scenario planning
+-Data-driven commercial decision support
 
   <a href="Evidence/">
   <img src="https://img.shields.io/badge/View-Technical_Evidence-red?style=for-the-badge"/>
