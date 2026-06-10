@@ -1,0 +1,17 @@
+Scenario Gross Profit =
+(
+    (
+        SUM(Sales[Total Revenue])
+        * (1 + 'Sales Parameter'[Parameter Value])
+    )
+    -
+    (
+        SUM(COGS[COGS])
+        * (1 + 'Cost Parameter'[Parameter Value])
+    )
+)
+/
+(
+    SUM(COGS[COGS])
+    * (1 - 'Cost Parameter'[Parameter Value])
+)
