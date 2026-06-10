@@ -17,6 +17,7 @@ To address this need, an interactive Business Intelligence dashboard was develop
 
 ## Technical Stack
 
+
 **Power BI**
 -Data modeling (star schema design)
 -Fact and dimension table architecture
