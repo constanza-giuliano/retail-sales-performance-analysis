@@ -80,10 +80,12 @@ This page enables scenario analysis by simulating changes in sales volume, produ
 ## Key Insights & Recommendations
 This analysis provides a clear view of sales performance and profitability across products, branches, and regions, supporting data-driven commercial decisions.
 
+
 **Key Insights**
 Sales and gross profit are concentrated in a few branches and provinces.
 Product profitability varies significantly, revealing opportunities to optimize the product portfolio.
 Scenario analysis highlights the impact of cost, pricing, and sales volume changes on business performance.
+
 **Business Recommendations**
 Focus commercial efforts on high-performing markets while improving underperforming branches.
 Prioritize high-margin products and continuously monitor pricing and supplier costs.
