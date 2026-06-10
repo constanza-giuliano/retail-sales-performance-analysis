@@ -1,0 +1,8 @@
+Sales Price Parameter =
+GENERATESERIES(-1, 1, 0.001)
+
+Parameter Value =
+SELECTEDVALUE(
+    'Sales Parameter'[Parameter],
+    0
+)
