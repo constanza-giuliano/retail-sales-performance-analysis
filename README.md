@@ -76,3 +76,15 @@ This page analyzes branch performance across the organization. Users can compare
 This page enables scenario analysis by simulating changes in sales volume, product costs, and selling prices. Users can evaluate the potential impact of different business assumptions on revenue and profitability, supporting planning activities and strategic decision-making through interactive what-if analysis.
 
 ![Scenarios](Images/5.Scenarios.png)
+
+## Key Insights & Recommendations
+This analysis provides a clear view of sales performance and profitability across products, branches, and regions, supporting data-driven commercial decisions.
+
+**Key Insights**
+Sales and gross profit are concentrated in a few branches and provinces.
+Product profitability varies significantly, revealing opportunities to optimize the product portfolio.
+Scenario analysis highlights the impact of cost, pricing, and sales volume changes on business performance.
+**Business Recommendations**
+Focus commercial efforts on high-performing markets while improving underperforming branches.
+Prioritize high-margin products and continuously monitor pricing and supplier costs.
+Expand the data model with historical information to enable trend analysis and future forecasting.
