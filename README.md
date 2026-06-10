@@ -19,34 +19,34 @@ To address this need, an interactive Business Intelligence dashboard was develop
 
 
 **Power BI**
--Data modeling (star schema design)
--Fact and dimension table architecture
--Relationship management
--Interactive dashboard development
--KPI card design and performance monitoring
--Dynamic slicers and cross-filtering
--Scenario analysis with What-if Parameters
+- Data modeling (star schema design)
+- Fact and dimension table architecture
+- Relationship management
+- Interactive dashboard development
+- KPI card design and performance monitoring
+- Dynamic slicers and cross-filtering
+- Scenario analysis with What-if Parameters
 
 **DAX**
--Measure-driven reporting architecture
--Profitability and margin calculations
--Time-based performance metrics
--Dynamic KPIs and reusable measures
--Scenario simulation measures
+- Measure-driven reporting architecture
+- Profitability and margin calculations
+- Time-based performance metrics
+- Dynamic KPIs and reusable measures
+- Scenario simulation measures
 
 **Power Query (M)**
--Data cleaning and normalization
--Data type standardization
--Column transformations and data shaping
--Query merging and calculated fields
--Preparation of analytical datasets
+- Data cleaning and normalization
+- Data type standardization
+- Column transformations and data shaping
+- Query merging and calculated fields
+- Preparation of analytical datasets
 
 **Business Intelligence & Analytics**
--Sales and profitability analysis
--Product and supplier performance evaluation
--Branch and regional comparison
--Interactive scenario planning
--Data-driven commercial decision support
+- Sales and profitability analysis
+- Product and supplier performance evaluation
+- Branch and regional comparison
+- Interactive scenario planning
+- Data-driven commercial decision support
 
   <a href="Evidence/">
   <img src="https://img.shields.io/badge/View-Technical_Evidence-red?style=for-the-badge"/>
