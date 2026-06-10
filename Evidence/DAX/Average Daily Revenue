@@ -1,0 +1,9 @@
+Average Daily Revenue =
+CALCULATE(
+    SUM(Sales[Total Revenue]) /
+    DATEDIFF(
+        MIN(Sales[Date]),
+        MAX(Sales[Date]),
+        DAY
+    )
+)
