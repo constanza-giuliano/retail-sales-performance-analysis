@@ -1,0 +1,6 @@
+Gross Profit Margin =
+DIVIDE(
+    SUM(Sales[Total Revenue]) - SUM(COGS[COGS]),
+    SUM(COGS[COGS]),
+    1
+)
