@@ -28,4 +28,4 @@ Power Query was used to clean, transform, and enrich the raw sales data before l
 ## Key Applied Steps (Power Query)
 
 Spanish Version
-![Applied Steps](6.fact-expenses.png)
+![Applied Steps](1.Power_query_Overview.png)
